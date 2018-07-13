@@ -1,7 +1,6 @@
 # webSample
 
-Node.jsでWebSocketを利用した、  
-チャットアプリです。  
+Node.jsのWebSocketを利用した、チャットアプリです。  
 チャットの内容とIPがテキストログに保存されるようになってます。  
 (chat.log)  
   
